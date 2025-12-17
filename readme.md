@@ -16,7 +16,7 @@ pip install pandas matplotlib notebook
 
 ## Data
 
-Place the CSV at `data/netflix_daily_top_10.csv`, relative to the notebook's working directory. The notebook reads that path directly. The CSV is included under `data/` in this repository.
+Place the CSV at `data/netflix_daily_top_10.csv`, relative to the notebook's working directory. The notebook reads that path directly. Data is not included; put the CSV in `data/`.
 
 ## Run
 
